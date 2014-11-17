@@ -1,4 +1,5 @@
-Feature: Dummy
+Feature: Dummy example of feature
 
   Scenario: Dummy scenario
-    Then it works
+    When I access the app
+    Then I can see a showcase with several books
